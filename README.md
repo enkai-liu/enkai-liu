@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banana.svg" alt="pixel-art banana" height="90" />
+</p>
+
 <h1 align="center">Hi, I'm Enkai 👋</h1>
 
 <p align="center">
