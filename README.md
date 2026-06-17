@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Enkai 👋</h1>
 
 <p align="center">
-  CS/BBA student at <b>Waterloo × Laurier</b> (2A) — I build things that make messy systems easier to see.
+  CS/BBA student at <b>Waterloo × Laurier</b> (2A), I like building things which make messy systems easier to see.
 </p>
 
 <p align="center">
-  A fan of anything that moves: aircraft first, trains and ships close behind. ✈️🚆🚢
+  A fan of anything that moves: aircraft first, trains and ships close behind.
 </p>
 
 ---
 
-### 🔭 Currently
+### Currently
 
-- 🧠 Learning chip design with **UWASIC**
-- 🚌 Building better bus-arrival predictions on top of **GRT's** open transit data
-- 🎨 Polishing the pixels on [enkai.me](https://enkai.me)
+- Building better bus-arrival predictions on top of **GRT's** open transit data
+- Polishing the pixels on [enkai.me](https://enkai.me)
+- Learning chip design with **UWASIC**
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - **GRT Reliability Tracker** — a transit-reliability pipeline for Grand River Transit. A GCP VM polls GTFS-Realtime every 30s, DuckDB builds the delay tables, and LightGBM trains on up to 2M arrivals (weather included) to show which buses actually come when they say they will.
 - **Twitter Bot Detector** — account/post features feeding a Random Forest that separates bots from humans at 90.2% accuracy.
@@ -59,7 +59,7 @@
 
 ---
 
-### 🔗 Connect
+### Connect
 
 [![Website](https://img.shields.io/badge/enkai.me-000000?style=flat&logo=safari&logoColor=white)](https://enkai.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@enkai.me)
