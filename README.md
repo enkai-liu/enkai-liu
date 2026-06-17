@@ -53,8 +53,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enkai-liu&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkai-liu&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enkai-liu&show_icons=true&hide_border=true&theme=default&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enkai-liu&layout=compact&hide_border=true&theme=default&exclude_repo=adk-samples&v=2" />
 </p>
 
 ---
